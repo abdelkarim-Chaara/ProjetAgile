@@ -1,6 +1,6 @@
 # ProjetAgile
 
-# Lien Sur CleverCloud
+# Direct Deploy on CleverCloud
 
 https://app-9281169b-849e-4cbc-86bd-9eb2bb75a15e.cleverapps.io/
 
